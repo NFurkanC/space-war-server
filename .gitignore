@@ -36,3 +36,6 @@ build/
 src/main/typescript/node_modules/
 
 *:Zone.Identifier
+
+### SDL C++ ###
+src_SDL/build*
