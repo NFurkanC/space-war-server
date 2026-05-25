@@ -38,7 +38,7 @@ HTML5 ve JavaScript tabanlı istemci bileşenleri.
 *Bu proje geliştirme aşamasındadır ve Spring Boot öğrenme sürecinin bir parçasıdır.*
 
 ## SDL Derleme Süreci
-`&& cd src\main\typescript\SDL`
+`cd src_SDL`
 
 `cmd.exe /c '"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\Build\vcvars64.bat"  && mkdir build && cd build && "C:\Program Files\CMake\bin\cmake.exe" -G "Ninja" .. && "C:\Program Files\CMake\bin\cmake.exe" --build .'` 
 
